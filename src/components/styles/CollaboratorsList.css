@@ -1,0 +1,12 @@
+.collaborators-list {
+  background-color: rgb(41, 4, 66);
+  padding: 20px;
+}
+
+.collaborators-list-header {
+  margin-bottom: 30px;
+}
+
+.ul-style {
+  list-style-type: none;
+}

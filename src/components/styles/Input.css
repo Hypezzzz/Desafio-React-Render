@@ -1,0 +1,23 @@
+.input-label-block {
+  display: block;
+}
+
+.input-margin-left {
+  margin-left: 15px;
+}
+
+.input-margin-top {
+  margin-top: 15px;
+}
+
+.input-manager:not(:first-of-type) {
+  margin-top: 25px;
+}
+
+.input-manager:last-of-type {
+  margin-bottom: 25px;
+}
+
+.input-width {
+  min-width: 250px;
+}
